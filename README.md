@@ -4,6 +4,23 @@ This is a PHP wrapper for the E-conomic SOAP API.
 ## Documentation
 See the [docs folder](docs) for full documentation documentation.
 
+## Supports
+* Debtors
+   * Groups
+   * Contacts
+* Products
+   * Groups
+* Order
+* Subscription
+   * Subscribers
+* Invoices
+* Quotations
+* Currencies
+* Price groups
+
+## System requirements
+E-conomic PHP API Wrapper is based on PHP 3.3 or newer. It using the SOAP web service comes with PHP.
+
 ## Installation
 
 This package is available through [Composer](https://getcomposer.org) and [Packagist](https://packagist.org/packages/tkj/economics).
