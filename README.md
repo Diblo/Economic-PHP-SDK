@@ -10,13 +10,13 @@ See the [docs folder](docs) for full documentation documentation.
    * Contacts
 * Products
    * Groups
+   * Currencies
+* Price groups
 * Order
+* Invoices
 * Subscription
    * Subscribers
-* Invoices
 * Quotations
-* Currencies
-* Price groups
 
 ## System requirements
 E-conomic PHP API Wrapper is based on PHP 3.3 or newer. It using the SOAP web service comes with PHP.
